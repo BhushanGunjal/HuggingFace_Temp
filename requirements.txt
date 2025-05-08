@@ -1,0 +1,3 @@
+langchain_huggingface
+langchain_community
+dotenv
